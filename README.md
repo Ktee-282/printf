@@ -1,8 +1,9 @@
 # printf
-ALX Printf task 
+Printf Group Project
 
 *Collaborators*
-  - Kadir Muhammad
-  - Kolade Omotayo
+
+  * Kolade Omotayo
+  * Kadir Muhammad
 
 
