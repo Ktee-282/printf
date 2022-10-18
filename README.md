@@ -1,8 +1,8 @@
 # printf
-ALX Printf task 
+Printf Group Project
 
-*Collaborators*
-  - Kadir Muhammad
-  - Kolade Omotayo
+## *Collaborators*
 
+  * [Kolade Omotayo](https://github.com/ktee-282)
+  * [Kadir Muhammad](https://github.com/kaymohh)
 
