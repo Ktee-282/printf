@@ -1,2 +1,8 @@
 # printf
-ALX Printf task - in collabration with my partner
+ALX Printf task 
+
+*Collaborators*
+  - Kadir Muhammad
+  - Kolade Omotayo
+
+
