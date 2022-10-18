@@ -1,9 +1,8 @@
 # printf
 Printf Group Project
 
-*Collaborators*
+## *Collaborators*
 
-  * Kolade Omotayo
-  * Kadir Muhammad
-
+  * [Kolade Omotayo](https://github.com/ktee-282)
+  * [Kadir Muhammad](https://github.com/kaymohh)
 
